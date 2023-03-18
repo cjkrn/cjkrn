@@ -1,5 +1,8 @@
+![logo](https://github.com/cjkrn/cjkrn/blob/main/Github%20Banner.png)
 <h1 align="center">Hello 👋, I'm Chiranjiv Karning</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
+
+<img align="right" alt="coding" width="300" src="https://github.com/cjkrn/cjkrn/blob/main/coding%20gif.gif">
 
 - 🌱 I’m currently learning **Angular, ASP.Net, Microsoft SQL Server**
 
