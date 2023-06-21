@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chiranjiv-karning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiranjiv-karning" height="30" width="40" /></a>
 <a href="https://kaggle.com/kaggle500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle500" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/8db77e41-d996-418e-ba2d-888f5ede946f" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codingninjas.com%2Fcodestudio%2Flibrary%2Ffavicon-and-cherrypy&psig=AOvVaw0Rsy85cf3N0EtrGRWCmmHX&ust=1687412345933000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMj97f_S0_8CFQAAAAAdAAAAABAD" alt="codingninja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
