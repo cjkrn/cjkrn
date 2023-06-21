@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chiranjiv-karning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiranjiv-karning" height="30" width="40" /></a>
 <a href="https://kaggle.com/kaggle500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle500" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/8db77e41-d996-418e-ba2d-888f5ede946f" target="blank"><img align="center" src="https://files.codingninjas.in/0000000000000723.jpg" alt="codingninja" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/8db77e41-d996-418e-ba2d-888f5ede946f" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsME1HUqm5zmIlXzdRRCHy-0XInJ3nXyE9lLYO1mLfE0_P3ONY9kkQWM_2iQ4UL7cbM9RE56TDdJU&usqp=CAU&ec=48665698" alt="codingninja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
